@@ -22,7 +22,7 @@ serve:
 	cd evidence && npx http-server ./build
 
 evidence-build:
-	meltano invoke evidence build
+	cd evidence && npm run build
 
 docker-build:
 	docker build -t mdsbox .
