@@ -19,3 +19,5 @@ env
 /sqlmesh/logs
 /sqlmesh/.cache
 /sqlmesh/config.yaml
+.misc
+env/
