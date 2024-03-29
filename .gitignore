@@ -11,6 +11,9 @@
 /docs/run_results.json
 /docs/semantic_manifest.json
 /data/data_catalog
+env
+.misc
+
 /output
 /logs
 /sqlmesh/logs
