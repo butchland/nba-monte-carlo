@@ -5,5 +5,8 @@
         "L031",
         "L034"
     ],
+    "debugpy.debugJustMyCode": false,
+    "python.terminal.activateEnvironment": false
+    ],
     "files.autoSave": "off"
 }
